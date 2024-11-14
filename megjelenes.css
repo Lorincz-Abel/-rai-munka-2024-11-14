@@ -35,6 +35,8 @@ nav>a{
 #bal{
     grid-area: bt;
     margin-left: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     
 }
 
